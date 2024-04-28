@@ -1,4 +1,4 @@
-# NOMENCLATURA CSS
+# CONCEPTO DE NOMENCLATURA CSS
 
 ## Authors
 
@@ -134,5 +134,5 @@ $First-color: white;
 
 
 ## 🔗 Links
-[![SMACSS_TUTORIA](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![SMACSS_TUTORIA](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/GallegoKevin/SMACSS_TUTORIA.git)
 
