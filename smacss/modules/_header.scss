@@ -1,0 +1,14 @@
+.header__logo {
+    display: flex;
+    align-items: center;
+
+    &-img {
+        max-width: 60px;
+        margin-right: 10px;
+    }
+}
+
+.header__title {
+    color: $First-color;
+    text-shadow: $First-text-shadow;
+}

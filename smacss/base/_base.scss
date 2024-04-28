@@ -1,0 +1,21 @@
+@import url(_normalize.scss);
+
+*,
+**::before,
+**::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    background: $First-background-img;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+
